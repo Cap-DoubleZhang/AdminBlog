@@ -1,0 +1,15 @@
+E:\Projects\AdminBlog\EFCore\bin\Debug\net5.0\Core.Shared.dll
+E:\Projects\AdminBlog\EFCore\obj\Debug\net5.0\EFCore.csprojAssemblyReference.cache
+E:\Projects\AdminBlog\EFCore\obj\Debug\net5.0\EFCore.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\AdminBlog\EFCore\obj\Debug\net5.0\EFCore.AssemblyInfoInputs.cache
+E:\Projects\AdminBlog\EFCore\obj\Debug\net5.0\EFCore.AssemblyInfo.cs
+E:\Projects\AdminBlog\EFCore\bin\Debug\net5.0\EFCore.deps.json
+E:\Projects\AdminBlog\EFCore\bin\Debug\net5.0\EFCore.dll
+E:\Projects\AdminBlog\EFCore\bin\Debug\net5.0\ref\EFCore.dll
+E:\Projects\AdminBlog\EFCore\bin\Debug\net5.0\EFCore.pdb
+E:\Projects\AdminBlog\EFCore\bin\Debug\net5.0\Core.Shared.pdb
+E:\Projects\AdminBlog\EFCore\obj\Debug\net5.0\EFCore.csproj.CoreCompileInputs.cache
+E:\Projects\AdminBlog\EFCore\obj\Debug\net5.0\EFCore.csproj.CopyComplete
+E:\Projects\AdminBlog\EFCore\obj\Debug\net5.0\EFCore.dll
+E:\Projects\AdminBlog\EFCore\obj\Debug\net5.0\ref\EFCore.dll
+E:\Projects\AdminBlog\EFCore\obj\Debug\net5.0\EFCore.pdb
