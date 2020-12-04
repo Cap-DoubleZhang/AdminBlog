@@ -1,0 +1,17 @@
+E:\Projects\AdminBlog\Core\obj\Debug\net5.0\Core.csprojAssemblyReference.cache
+E:\Projects\AdminBlog\Core\obj\Debug\net5.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\AdminBlog\Core\obj\Debug\net5.0\Core.AssemblyInfoInputs.cache
+E:\Projects\AdminBlog\Core\obj\Debug\net5.0\Core.AssemblyInfo.cs
+E:\Projects\AdminBlog\Core\obj\Debug\net5.0\Core.csproj.CoreCompileInputs.cache
+E:\Projects\AdminBlog\Core\bin\Debug\net5.0\Core.deps.json
+E:\Projects\AdminBlog\Core\bin\Debug\net5.0\Core.dll
+E:\Projects\AdminBlog\Core\bin\Debug\net5.0\ref\Core.dll
+E:\Projects\AdminBlog\Core\bin\Debug\net5.0\Core.pdb
+E:\Projects\AdminBlog\Core\bin\Debug\net5.0\Common.dll
+E:\Projects\AdminBlog\Core\bin\Debug\net5.0\Core.Shared.dll
+E:\Projects\AdminBlog\Core\bin\Debug\net5.0\Common.pdb
+E:\Projects\AdminBlog\Core\bin\Debug\net5.0\Core.Shared.pdb
+E:\Projects\AdminBlog\Core\obj\Debug\net5.0\Core.csproj.CopyComplete
+E:\Projects\AdminBlog\Core\obj\Debug\net5.0\Core.dll
+E:\Projects\AdminBlog\Core\obj\Debug\net5.0\ref\Core.dll
+E:\Projects\AdminBlog\Core\obj\Debug\net5.0\Core.pdb

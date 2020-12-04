@@ -3,3 +3,11 @@ E:\Projects\AdminBlog\Consul\obj\Debug\net5.0\Consul.GeneratedMSBuildEditorConfi
 E:\Projects\AdminBlog\Consul\obj\Debug\net5.0\Consul.AssemblyInfoInputs.cache
 E:\Projects\AdminBlog\Consul\obj\Debug\net5.0\Consul.AssemblyInfo.cs
 E:\Projects\AdminBlog\Consul\obj\Debug\net5.0\Consul.csproj.CoreCompileInputs.cache
+E:\Projects\AdminBlog\Consul\bin\Debug\net5.0\Consul.dll
+E:\Projects\AdminBlog\Consul\obj\Debug\net5.0\Consul.csproj.CopyComplete
+E:\Projects\AdminBlog\Consul\obj\Debug\net5.0\Consul.dll
+E:\Projects\AdminBlog\Consul\obj\Debug\net5.0\ref\Consul.dll
+E:\Projects\AdminBlog\Consul\obj\Debug\net5.0\Consul.pdb
+E:\Projects\AdminBlog\Consul\bin\Debug\net5.0\Consul.deps.json
+E:\Projects\AdminBlog\Consul\bin\Debug\net5.0\ref\Consul.dll
+E:\Projects\AdminBlog\Consul\bin\Debug\net5.0\Consul.pdb

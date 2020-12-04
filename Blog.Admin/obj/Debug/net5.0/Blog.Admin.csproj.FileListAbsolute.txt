@@ -24,7 +24,6 @@ E:\Projects\AdminBlog\Blog.Admin\obj\Debug\net5.0\Blog.Admin.GeneratedMSBuildEdi
 E:\Projects\AdminBlog\Blog.Admin\obj\Debug\net5.0\Blog.Admin.AssemblyInfoInputs.cache
 E:\Projects\AdminBlog\Blog.Admin\obj\Debug\net5.0\Blog.Admin.AssemblyInfo.cs
 E:\Projects\AdminBlog\Blog.Admin\obj\Debug\net5.0\Blog.Admin.csproj.CoreCompileInputs.cache
-E:\Projects\AdminBlog\Blog.Admin\obj\Debug\net5.0\Blog.Admin.MvcApplicationPartsAssemblyInfo.cs
 E:\Projects\AdminBlog\Blog.Admin\obj\Debug\net5.0\Blog.Admin.MvcApplicationPartsAssemblyInfo.cache
 E:\Projects\AdminBlog\Blog.Admin\obj\Debug\net5.0\staticwebassets\Blog.Admin.StaticWebAssets.Manifest.cache
 E:\Projects\AdminBlog\Blog.Admin\obj\Debug\net5.0\staticwebassets\Blog.Admin.StaticWebAssets.xml
@@ -35,3 +34,14 @@ E:\Projects\AdminBlog\Blog.Admin\obj\Debug\net5.0\Blog.Admin.dll
 E:\Projects\AdminBlog\Blog.Admin\obj\Debug\net5.0\ref\Blog.Admin.dll
 E:\Projects\AdminBlog\Blog.Admin\obj\Debug\net5.0\Blog.Admin.pdb
 E:\Projects\AdminBlog\Blog.Admin\obj\Debug\net5.0\Blog.Admin.genruntimeconfig.cache
+E:\Projects\AdminBlog\Blog.Admin\bin\Debug\net5.0\AutoMapper.dll
+E:\Projects\AdminBlog\Blog.Admin\bin\Debug\net5.0\Application.dll
+E:\Projects\AdminBlog\Blog.Admin\bin\Debug\net5.0\Application.Shared.dll
+E:\Projects\AdminBlog\Blog.Admin\bin\Debug\net5.0\Common.dll
+E:\Projects\AdminBlog\Blog.Admin\bin\Debug\net5.0\Core.dll
+E:\Projects\AdminBlog\Blog.Admin\bin\Debug\net5.0\Core.Shared.dll
+E:\Projects\AdminBlog\Blog.Admin\bin\Debug\net5.0\Application.pdb
+E:\Projects\AdminBlog\Blog.Admin\bin\Debug\net5.0\Common.pdb
+E:\Projects\AdminBlog\Blog.Admin\bin\Debug\net5.0\Application.Shared.pdb
+E:\Projects\AdminBlog\Blog.Admin\bin\Debug\net5.0\Core.pdb
+E:\Projects\AdminBlog\Blog.Admin\bin\Debug\net5.0\Core.Shared.pdb

@@ -60,7 +60,7 @@ namespace Core.Entities
         /// 是否可用
         /// </summary>
         [Column("IsUse")]
-        public UserType IsUse { get; set; }
+        public UseType IsUse { get; set; }
         /// <summary>
         /// 是否被删除
         /// </summary>

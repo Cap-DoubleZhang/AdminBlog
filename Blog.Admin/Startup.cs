@@ -31,6 +31,9 @@ namespace Blog.Admin
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "Blog.Admin", Version = "v1" });
             });
+
+            //services.AddDbContext<dbContext>(options => options.UseSqlServer(Configuration.GetConnectionString("dbConnections"),
+            //    p => p.MigrationsAssembly("EFCore.DAL")));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

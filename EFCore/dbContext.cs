@@ -61,6 +61,8 @@ namespace EFCore
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
+            //optionsBuilder.UseSqlServer();
+
             //用于设置是否启用缓存，暂时解决了可能出现的内存溢出的问题
             optionsBuilder.EnableServiceProviderCaching(false);
             base.OnConfiguring(optionsBuilder);
